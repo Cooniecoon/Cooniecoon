@@ -1,7 +1,7 @@
 ## Hi there 👋
-My name is Jeong Seok Hoon.\
-I major in robotics.\
-I am interested in making robots interact with reality through computer vision and deep learning.
+My name is **Jeong Seok Hoon**.\
+I major in **robotics**.\
+I am interested in making robots interact with reality through **computer vision** and **deep learning**.
 
 ---
 
