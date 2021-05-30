@@ -10,9 +10,7 @@ I am interested in making robots interact with reality through **Computer Vision
 
 ---
 ### Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoony3355@gmail.com)](mailto:hoony3355@gmail.com) 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/watch?v=1IyeR2p0NHo)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/cooniecoon/)](https://www.instagram.com/cooniecoon/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoony3355@gmail.com)](mailto:hoony3355@gmail.com) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/watch?v=1IyeR2p0NHo) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/cooniecoon/)](https://www.instagram.com/cooniecoon/) 
 <!--
 **Cooniecoon/Cooniecoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
